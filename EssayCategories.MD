@@ -14,3 +14,6 @@
 # Advantages and Disadvantages?
 ## What are the advantages and disadvantages?
 ## Do the advantages outweigh disadvantages?
+
+# Double questions
+## Normally two dialect questions
